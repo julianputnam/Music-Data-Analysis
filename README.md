@@ -1,2 +1,2 @@
 # music-data-testing
-Playing around with music datasets from Kaggle
+Experimenting with music datasets from Kaggle
