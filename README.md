@@ -1,7 +1,6 @@
-# music-data-testing
-Experimenting with the following music dataset from Kaggle:
+Exploratory music data analysis project using a Kaggle dataset:
 https://www.kaggle.com/datasets/vicsuperman/prediction-of-music-genre
 
-Spotify-2.R contains code to generate Tempo vs. Energy plots for various genres.
+Genre-Vis.R visualizes relationships between danceability, tempo, and energy for songs of various genres. Plots are saved to folder: main/Plots/Genre Plots/
 
-Spotify-4.R contains code to generate popchart.jpg, a visual comparison of popular artists based on mood and danceability of their hit songs.
+Pop-Artist-Vis.R visualizes the relationship between valence (mood), danceability, and popularity of top artists. Plot is saved to folder: main/Plots/
