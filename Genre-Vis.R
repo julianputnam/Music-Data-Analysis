@@ -34,7 +34,7 @@ genres <- unique(songs.df$music_genre)[genre_index]
 for (genre in genres){
   scatterplotcolor(genre = genre)
   ggsave(
-    paste(genre, "_plot.jpg", sep=""),
+    paste("Plots/Genre Plots/", genre, "_plot.jpg", sep=""),
     device="jpg",
   )
 }

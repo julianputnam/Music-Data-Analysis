@@ -34,4 +34,4 @@ popchart <- function(x = "dance", y = "valence", colvar = "pop", df = s){
 popchart()
 
 # Save plot:
-ggsave("popchart.jpg", device="jpg")
+ggsave("Plots/popchart.jpg", device="jpg")
